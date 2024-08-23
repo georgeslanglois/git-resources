@@ -53,6 +53,9 @@
   </p>
 </div>
 
+<!-- ÍNDICE EM BARRA -->
+## [Demos](#demo)  &nbsp;&nbsp;&nbsp;&nbsp;  [Docs](#Docs)  &nbsp;&nbsp;&nbsp;&nbsp;  [Download](#Download) &nbsp;&nbsp;&nbsp;&nbsp;  [Support](#Support)
+
 <!-- ÍNDICE RETRÁTIL -->
 <details>
   <summary><b>Índice Retrátil</b></summary>
